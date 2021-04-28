@@ -5,4 +5,4 @@ spring:
     import: optional:configserver:http://localhost:8888
   application:
     name: config-client-1
-config-client.message: Made a change in the repo Test OK
+config-client.message: Made a change (number 2) in the repo Test OK
