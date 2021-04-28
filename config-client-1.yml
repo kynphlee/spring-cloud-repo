@@ -1,8 +1,0 @@
-spring:
-  profiles:
-    active: default
-  config:
-    import: optional:configserver:http://localhost:8888
-  application:
-    name: config-client-1
-config-client.message: Resetting in the repo Test OK
