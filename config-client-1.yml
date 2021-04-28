@@ -5,4 +5,4 @@ spring:
     import: optional:configserver:http://localhost:8888
   application:
     name: config-client-1
-config-client.message: Cloud Config Client Test OK
+config-client.message: Made a change in the repo Test OK
